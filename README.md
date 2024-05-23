@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **anandrahul604/anandrahul604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m Software Engineer primarily experienced with back-end development using web technologies
+- 📍 I'm located in Vancouver, BC
+- 📫 You can reach me on linkedin: [/in/anandrahul604/](https://www.linkedin.com/in/anandrahul604/)
