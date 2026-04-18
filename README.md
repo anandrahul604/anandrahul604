@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a Full-stack Software Engineer
-- 🔨 Technologies that i'm experinced in include Python, Java, JavaScript (Node.js, Express.js, React.js), GraphQL, and AWS
-- 📍 I'm located in Vancouver, BC
-- 📫 You can reach me on linkedin: [/in/anandrahul604/](https://www.linkedin.com/in/anandrahul604/)
+- 🔭 I’m a Full-stack Software Engineer with a strong interest in back-end distributed systems.
